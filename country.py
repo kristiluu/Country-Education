@@ -1,5 +1,4 @@
 # Kristi Luu
-# CIS 41A
 class Country:
     '''
     A class called Country that will create objects when given rank, name, percent, and year.
