@@ -1,13 +1,4 @@
 # Kristi Luu
-# CIS 41A
-# The data structure that I chose to use is a list. The list is especially useful because 
-# when doing the check for the ranking display, I can traverse the list by index and 
-# more easily use the any() function to check for the first letter in the list of objects.
-# The elements of the list are the Country objects (thus, in this project, 179 Country objects in a list)
-# They are in the order that they are read in through the text file. 
-# The list is best option of the data structures because I could use list-comprehension to 
-# read in the data, as well as use it with the any() function when checking the letter 
-# and country name. The list allows less usage of a loop.
 import files
 import csv
 import re
